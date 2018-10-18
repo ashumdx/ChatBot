@@ -1,0 +1,11 @@
+com\amazonaws\lambda\demo\Response.class
+Repository\TaskRepositoryImpl.class
+Service\TaskService.class
+vo\LoginDetails.class
+com\amazonaws\lambda\demo\Request.class
+Constants\PropertyConstants.class
+com\amazonaws\lambda\demo\LambdaFunctionHandler.class
+Repository\Task.class
+Constants\MasterDataConstants.class
+Repository\TaskRepository.class
+Service\TaskServiceImpl.class
